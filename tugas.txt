@@ -1,2 +1,3 @@
 Clarisa- buat repository awal
 saya tambah apa ya
+tambah splash screen
